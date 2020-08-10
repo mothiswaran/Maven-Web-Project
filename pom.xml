@@ -78,7 +78,7 @@
 			<version>${spring.version}</version>
 		</dependency>
   </dependencies>
-
+<!--
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
@@ -91,7 +91,7 @@
 	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 </distributionManagement>
-	
+-->	
 	
   <build>
     <plugins>
